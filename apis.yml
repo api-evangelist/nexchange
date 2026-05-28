@@ -1,0 +1,32 @@
+aid: nexchange
+name: Nexchange
+description: "Automated cryptocurrency exchange service"
+url: https://nexchange2.docs.apiary.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: Nexchange
+    description: "Automated cryptocurrency exchange service"
+    humanURL: https://nexchange2.docs.apiary.io/
+    baseURL: https://nexchange2.docs.apiary.io/
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://nexchange2.docs.apiary.io/
+common:
+  - type: Website
+    url: https://nexchange2.docs.apiary.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
