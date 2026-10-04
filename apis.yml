@@ -39,7 +39,6 @@ apis:
   - name: Nexchange
     description: "Automated cryptocurrency exchange service"
     humanURL: https://nexchange2.docs.apiary.io/
-    baseURL: https://nexchange2.docs.apiary.io/
     tags:
       - Cryptocurrency
     properties:
